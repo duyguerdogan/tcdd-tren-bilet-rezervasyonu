@@ -1,0 +1,15 @@
+D:\githubprojects\tcdd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\githubprojects\tcdd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\githubprojects\tcdd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletAlForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YolcuBilgileriForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GirisForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TrenSaatleriForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenuForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HakkindaForm.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\githubprojects\tcdd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

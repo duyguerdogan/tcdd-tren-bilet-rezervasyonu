@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36C07918-6782-4626-84FF-34B6FC44A982}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BiletAlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletAlForm.Designer.cs">
+      <DependentUpon>BiletAlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YolcuBilgileriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YolcuBilgileriForm.Designer.cs">
+      <DependentUpon>YolcuBilgileriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisForm.Designer.cs">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrenSaatleriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrenSaatleriForm.Designer.cs">
+      <DependentUpon>TrenSaatleriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenuForm.Designer.cs">
+      <DependentUpon>AnaMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HakkindaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HakkindaForm.Designer.cs">
+      <DependentUpon>HakkindaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BiletAlForm.resx">
+      <DependentUpon>BiletAlForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YolcuBilgileriForm.resx">
+      <DependentUpon>YolcuBilgileriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisForm.resx">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrenSaatleriForm.resx">
+      <DependentUpon>TrenSaatleriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenuForm.resx">
+      <DependentUpon>AnaMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HakkindaForm.resx">
+      <DependentUpon>HakkindaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sontrn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kullanıcılogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluebackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sontrn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-simple-blue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-blue-solid-color-background-view-and-the-below-background-for-your-mobile-tablet-explore-blue-color-background-navy-blue-dark-blue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-plain-color-backgrounds-inn-ios-plane-colour-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluebackground1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-medium-persian-blue-solid-color-backgrounds-for-blue-mobile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCDD_Taşımacılık_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed4.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Security" />
+    <Compile Include="VeriDeposu.cs" />
+    <Compile Include="ArayuzIslemi.cs" />
+  </ItemGroup>
+</Project>

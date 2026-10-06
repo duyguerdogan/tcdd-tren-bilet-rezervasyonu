@@ -1,0 +1,194 @@
+[
+  {
+    "ISTASYON_ID": 1,
+    "ISTASYON_ADI": "KAYMAKAMLIK",
+    "ISTASYON_SIRASI": 1,
+    "AKTIF_MI": "True",
+    "BOYLAM": 26.991,
+    "ENLEM": 38.3949
+  },
+  {
+    "ISTASYON_ID": 2,
+    "ISTASYON_ADI": "100. YIL CUMHURİYET ŞEHİTLİK",
+    "ISTASYON_SIRASI": 2,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0003,
+    "ENLEM": 38.3957
+  },
+  {
+    "ISTASYON_ID": 3,
+    "ISTASYON_ADI": "NARLIDERE İTFAİYE",
+    "ISTASYON_SIRASI": 3,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.015,
+    "ENLEM": 38.3937
+  },
+  {
+    "ISTASYON_ID": 4,
+    "ISTASYON_ADI": "GÜZEL SANATLAR",
+    "ISTASYON_SIRASI": 4,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0234,
+    "ENLEM": 38.3924
+  },
+  {
+    "ISTASYON_ID": 5,
+    "ISTASYON_ADI": "DOKUZ EYLÜL ÜNİVERSİTESİ HASTANESİ",
+    "ISTASYON_SIRASI": 5,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0378,
+    "ENLEM": 38.3942
+  },
+  {
+    "ISTASYON_ID": 6,
+    "ISTASYON_ADI": "ÇAĞDAŞ",
+    "ISTASYON_SIRASI": 6,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0456,
+    "ENLEM": 38.3944
+  },
+  {
+    "ISTASYON_ID": 7,
+    "ISTASYON_ADI": "BALÇOVA",
+    "ISTASYON_SIRASI": 7,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.057,
+    "ENLEM": 38.3957
+  },
+  {
+    "ISTASYON_ID": 8,
+    "ISTASYON_ADI": "FALTAY",
+    "ISTASYON_SIRASI": 8,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0698,
+    "ENLEM": 38.3953
+  },
+  {
+    "ISTASYON_ID": 9,
+    "ISTASYON_ADI": "POLİGON",
+    "ISTASYON_SIRASI": 9,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0841,
+    "ENLEM": 38.3916
+  },
+  {
+    "ISTASYON_ID": 10,
+    "ISTASYON_ADI": "GÖZTEPE",
+    "ISTASYON_SIRASI": 10,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.0943,
+    "ENLEM": 38.3965
+  },
+  {
+    "ISTASYON_ID": 11,
+    "ISTASYON_ADI": "HATAY",
+    "ISTASYON_SIRASI": 11,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1031,
+    "ENLEM": 38.4015
+  },
+  {
+    "ISTASYON_ID": 12,
+    "ISTASYON_ADI": "İZMİRSPOR",
+    "ISTASYON_SIRASI": 12,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1103,
+    "ENLEM": 38.4017
+  },
+  {
+    "ISTASYON_ID": 13,
+    "ISTASYON_ADI": "ÜÇYOL",
+    "ISTASYON_SIRASI": 13,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1208,
+    "ENLEM": 38.4061
+  },
+  {
+    "ISTASYON_ID": 14,
+    "ISTASYON_ADI": "KONAK",
+    "ISTASYON_SIRASI": 14,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1283,
+    "ENLEM": 38.4175
+  },
+  {
+    "ISTASYON_ID": 15,
+    "ISTASYON_ADI": "ÇANKAYA",
+    "ISTASYON_SIRASI": 15,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1369,
+    "ENLEM": 38.4225
+  },
+  {
+    "ISTASYON_ID": 16,
+    "ISTASYON_ADI": "BASMANE",
+    "ISTASYON_SIRASI": 16,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1441,
+    "ENLEM": 38.4227
+  },
+  {
+    "ISTASYON_ID": 17,
+    "ISTASYON_ADI": "HİLAL",
+    "ISTASYON_SIRASI": 17,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1564,
+    "ENLEM": 38.4275
+  },
+  {
+    "ISTASYON_ID": 18,
+    "ISTASYON_ADI": "HALKAPINAR",
+    "ISTASYON_SIRASI": 18,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1686,
+    "ENLEM": 38.435
+  },
+  {
+    "ISTASYON_ID": 19,
+    "ISTASYON_ADI": "STADYUM",
+    "ISTASYON_SIRASI": 19,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.1808,
+    "ENLEM": 38.4425
+  },
+  {
+    "ISTASYON_ID": 20,
+    "ISTASYON_ADI": "SANAYİ",
+    "ISTASYON_SIRASI": 20,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.19,
+    "ENLEM": 38.4481
+  },
+  {
+    "ISTASYON_ID": 21,
+    "ISTASYON_ADI": "BÖLGE",
+    "ISTASYON_SIRASI": 21,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.2008,
+    "ENLEM": 38.4547
+  },
+  {
+    "ISTASYON_ID": 22,
+    "ISTASYON_ADI": "BORNOVA",
+    "ISTASYON_SIRASI": 22,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.2128,
+    "ENLEM": 38.4586
+  },
+  {
+    "ISTASYON_ID": 23,
+    "ISTASYON_ADI": "ÜNİVERSİTE",
+    "ISTASYON_SIRASI": 23,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.2283,
+    "ENLEM": 38.46
+  },
+  {
+    "ISTASYON_ID": 24,
+    "ISTASYON_ADI": "EVKA3",
+    "ISTASYON_SIRASI": 24,
+    "AKTIF_MI": "True",
+    "BOYLAM": 27.2289,
+    "ENLEM": 38.4656
+  }
+]
